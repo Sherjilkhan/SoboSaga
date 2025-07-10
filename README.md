@@ -28,7 +28,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sobosaga.git
+git clone https://github.com/Sherjilkhan/sobosaga.git
 
 # Navigate to project directory
 cd sobosaga
